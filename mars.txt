@@ -1,5 +1,9 @@
-affect
+
 hellooo
 mars  cool cool
 stay hungry and stay fool
+<<<<<<< HEAD
 a stupid change
+=======
+Hello!
+>>>>>>> 274123163205fdfbe4571d0c67b3ca44cddc45a4
